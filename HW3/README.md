@@ -3,6 +3,7 @@
 
 ###Assignment 1:
 Generate 100 samples of different sizes N (N>10 & N<2000) from each of 6 different distributions
+
 File name: HW3_assignment1.ipynb
 
 1. Chi-square Distribution
@@ -18,4 +19,5 @@ Random Seed = 1111
 
 ###Assignment 2:
 Fill in the cells in the ipython notebook to test effectivenes of NYC Post-Prison Employment Programs
+
 File name: HW3_assignment2_NYC_Post-Prison_Employment_Programs.ipynb
