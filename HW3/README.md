@@ -17,6 +17,8 @@ Global setting:
 Population Mean = 100
 Random Seed = 1111
 
+The plots of sample means tells us that in the limit of sample size N ->infinity，the sample mean approaches a Gaussian distribution with mean μ and standard deviation σ, regardless of the distribution of X.
+
 ###Assignment 2:
 Fill in the cells in the ipython notebook to test effectivenes of NYC Post-Prison Employment Programs
 
