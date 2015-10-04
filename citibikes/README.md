@@ -8,7 +8,7 @@ The idea of testing peak hour/off-peak hour trips by subscriber/non-subscriber c
 We assume a typical time range for commercial hours, peak hours, and off-peak hours.
 
 ###Contributions:
-Jingqin Gao: 
+####Jingqin Gao: 
 
 Determined the idea + testable hypothesis
 
@@ -16,7 +16,7 @@ Set up the code for April data.
 
 Fine-tune the figures. (e.g. how to do multiple plots with the same axis range, different legend locations, titles)
 
-Fernando Zingler:
+####Fernando Zingler:
 
 Determined the idea + testable hypothesis
 
