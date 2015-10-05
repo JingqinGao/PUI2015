@@ -29,4 +29,3 @@ For both months evaluated, the Null Hypothesis could be rejected. In April, the 
 
 The test selected can be considered appropriated because the samples are random and independent.
 
-
