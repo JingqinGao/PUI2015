@@ -1,0 +1,50 @@
+the review's were good and insightful 10/10
+(but remember that this was about visualization, not science, so the comment on the outlier was not relevant, it would only have been if it were affecting the stretch of the plot compromising its readability. of course the author of scientific inference based on that plot should look at 115 years old bikers with suspicion)
+
+
+
+NOTES ON YOUR PLOT 
+===================
+[!alt text](HW8.png)
+
+the choice of background color for the plot is odd: it reduces the contrast and the readability of the plot. 
+
+there are too many datapoints compromising readability. consider a contour plot. 
+the color is not explained. 
+
+the legend on white background is distracting from the rest of the plot given the choice for background color
+
+UrbanPlanner42
+======
+
+3d affects readability. 
+
+missing units
+
+color is redundant with the third axis (which all the more should be omitted)
+
+the grid is deformed in mysterious ways
+
+the title is exceedingly far from the plot
+
+
+sarangof
+========
+
+legend obfuscated by the plot
+
+the smoothing choice may show insignificant structure
+
+the plot is simple and generally clear enough
+
+
+winnilucky
+=========
+
+the plot says color blind compliant, but really the color blind compliance is only important when multiple colors are present. 
+
+spaces are missing between words and parenthesis in both label and title
+
+the 3D is actually justified but the position of the points in the 3d space is hard to read. i think the transparency is attempting to make it more clear but it does not increase readability and the lack of legend makes it confusing to understand its meaning
+
+axis ticks are too small
